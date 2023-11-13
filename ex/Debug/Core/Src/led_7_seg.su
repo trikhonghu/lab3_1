@@ -1,0 +1,2 @@
+led_7_seg.c:12:6:display7segLed	16	static
+led_7_seg.c:112:6:scan_led	8	static
